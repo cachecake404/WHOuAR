@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Sign Page.unity
+    guid: 1cffd0f74f061144daa97f4d381dc26d
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/badges.unity
+    guid: d108f8289ed6b91498b90d8b0aef2446
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: 7e13fe57b8cb06c4aa7e8548a28228ca
+  - enabled: 1
+    path: Assets/Scenes/scan.unity
+    guid: 2ab6869f6f157e144983c26f0b104bf2
+  - enabled: 0
+    path: 
+    guid: f4d1c501555af2a4ebd0b0ef3787d7f0
+  - enabled: 1
+    path: Assets/Scenes/stats.unity
+    guid: b7da1ee89fc35fd4885d15876d04a4d8
+  - enabled: 1
+    path: Assets/Scenes/compet.unity
+    guid: aa62fb5e9c0d6cc4f909b96287c7376e
+  - enabled: 1
+    path: Assets/Scenes/persistance.unity
+    guid: c2359e254e3522f489bf7790ca2fa39c
+  - enabled: 1
+    path: Assets/Scenes/ProblemSolving.unity
+    guid: 0929d48fd5a401640a74944e1cca91ae
+  m_configObjects: {}
