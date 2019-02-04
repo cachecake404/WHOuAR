@@ -3,14 +3,11 @@ AR stickers generated at your fingertips through your data obtained from the mos
 
 # Instructions
 
-1. 
-Download Unity
+1. Download Unity
 
-2. 
-Open this project using Unity
+2. Open this project using Unity
 
-3. 
-Two target images are currently being used to sample the capabilities of the app. The first two images found at 
+3. Two target images are currently being used to sample the capabilities of the app. The first two images found at 
 https://library.vuforia.com/content/dam/vuforia-library/docs/target_samples/unity/mars_target_images.pdf will show case the capability of the app
 
 4. Build and run the application for your desired platform. 
